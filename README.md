@@ -24,17 +24,17 @@ Frontend Developer | Angular Enthusiast | Aspiring Full-Stack Developer
 
 ### Frontend
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?=angular,typescript,javascript,html,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,typescript,javascript,html,css" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?=nodejs,express,nestjs,postgres,superbase,drizzle" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,postgres,superbase,drizzle" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?=git,github,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode" />
 </p>
 
 ---
